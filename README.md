@@ -1,7 +1,7 @@
 - 👋 Hey there
 - 👀 My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
 - 🌱 I’m currently learning Java and DSA
-- 💞️ I love how collaboration and knowledge sharing happened through open-source.
+- 💞️ I love how collaboration and knowledge sharing happens through open-source.
 
 hi, i'm Sruti Sri, a passionate self-taught front-end web developer.
 <!---
